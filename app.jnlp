@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="D:\Project\Java\Space Rocks" href="RockAvoidanceGame.jnlp">
+    <information>
+        <title>Rock Avoidance Game</title>
+        <vendor>Your Name</vendor>
+        <description>A simple Rock Avoidance game.</description>
+        <icon href="game_icon.png"/>
+    </information>
+    <resources>
+        <j2se version="1.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="RockAvoidanceGame.jar" main="true"/>
+    </resources>
+    <application-desc main-class="RockAvoidanceGame"/>
+</jnlp>
